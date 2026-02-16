@@ -29,7 +29,7 @@ The core of this project is a robust **Company Database** schema (`company_schem
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/MySQL-DataBase.git
+    git clone https://github.com/wasim-builds/MySQL-DataBase.git
     cd MySQL-DataBase
     ```
 
